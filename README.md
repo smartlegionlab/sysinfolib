@@ -3,6 +3,7 @@ Library for obtaining system information and user information.
 
 ---
 
+[![PyPI Downloads](https://static.pepy.tech/badge/sysinfolib)](https://pepy.tech/projects/sysinfolib)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/sysinfolib)](https://github.com/smartlegionlab/sysinfolib/)
 [![PyPI](https://img.shields.io/pypi/v/sysinfolib)](https://pypi.org/project/sysinfolib)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/sysinfolib?label=pypi%20downloads)](https://pypi.org/project/sysinfolib/)
